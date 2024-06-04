@@ -22,20 +22,20 @@ Explore a Variety of Tasty Dishes: Whether you're a fan of beef, chicken, or oth
 ## App UI Gallery
 
 <p align="center">
-  <img width=45%" height="auto" src="./assets/readme/home_light.png">
-  <img width="45%" height="auto" src="./assets/readme/home_dark.png.png">
+  <img height="400" src="./assets/readme/home_light.png">
+  <img height="400" src="./assets/readme/home_dark.png.png">
 </p>
 <p align="center">
-  <img width="45%" height="auto" src="./assets/readme/meals_light.png">
-   <img width="45%" height="auto" src="./assets/readme/meals_dark.png">
+  <img height="400" src="./assets/readme/meals_light.png">
+  <img height="400" src="./assets/readme/meals_dark.png">
 </p>
 <p align="center">
-  <img width="45%" height="auto" src="./assets/readme/category_light.png">
-  <img width="45%" height="auto" src="./assets/readme/category_dark.png">
+  <img height="400" src="./assets/readme/category_light.png">
+  <img height="400" src="./assets/readme/category_dark.png">
 </p>
 <p align="center">
-  <img width="45%" height="auto" src="./assets/readme/detail_light.png">
-  <img width="45%" height="auto" src="./assets/readme/detail_dark.png">
+  <img height="400" src="./assets/readme/detail_light.png">
+  <img height="400" src="./assets/readme/detail_dark.png">
 </p>
 
 ## Flutter Packages Used
@@ -46,20 +46,4 @@ Explore a Variety of Tasty Dishes: Whether you're a fan of beef, chicken, or oth
   - **icons_launcher (dev)**
   - **flutter_native_splash (dev)**
 
-## Download and Install
 
-- You can head over to the [Releases Page](https://github.com/JahanzaibZ/Cookit/releases) to download and install the latest release of the application.
-
-## Installation Instructions
-
-1. Download the <!--appropriate--> APK <!--for your device's architecture--> from the <!--above--> releases section.
-2. Enable installation from unknown sources in your device settings if not already enabled.
-3. Locate the downloaded APK file on your device.
-4. Tap on the APK file to start the installation process.
-5. Follow the on-screen prompts to complete the installation.
-6. Once installed, launch Cookit from your device's app drawer.
-7. Start viewing and cooking different recipes.
-
-## Bug/Issue Reports
-
-Please feel free to open issues, feature requests, and pull requests if you have anything worthwhile to add. I appreciate you checking out and using this application.
